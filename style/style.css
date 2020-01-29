@@ -6,7 +6,7 @@ body {
 
 .body_wraper {
   width: 100%;
-  background-image: url("/img/back.png");
+  background-image: url("../img/back.png");
   background-position: center;
   background-size: cover;
   height: 1005px;
@@ -146,7 +146,7 @@ header .top {
   height: 496px;
   left: 790px;
   top: 164px;
-  background: url("/img/comp.png");
+  background: url("../img/comp.png");
 }
 
 .info {
